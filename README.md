@@ -6,3 +6,6 @@
 <h4><caption>: The Table Caption element</h4>
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption
 
+<h4><thead>: The Table Head element</h4>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead
+
