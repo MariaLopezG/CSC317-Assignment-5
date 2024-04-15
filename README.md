@@ -15,3 +15,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_struct
 
 <h4>Use JavaScript within a webpage</h4>
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_JavaScript_within_a_webpage
+
+<h4>Favicon</h4>
+https://developer.mozilla.org/en-US/docs/Glossary/Favicon
